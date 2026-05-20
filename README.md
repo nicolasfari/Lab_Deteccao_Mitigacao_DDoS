@@ -50,7 +50,7 @@ Investigação de um ataque DDoS usando Splunk. Registros de acesso à web colet
 <img width="1403" height="814" alt="image" src="https://github.com/user-attachments/assets/494cd6e6-2daf-46e3-a231-a730132bf364" />
 
 
-Filtro todos os IPs da faixa suspeita `203.0.113.x` e contou as requisições por IP. Resultado: **60 IPs únicos** todos coordenados na mesma faixa, confirmando uma botnet organizada.
+- Filtro todos os IPs da faixa suspeita `203.0.113.x` e contou as requisições por IP. Resultado: **60 IPs únicos** todos coordenados na mesma faixa, confirmando uma botnet organizada.
 
 ### 4. Identificar o User-Agent do ataque
 <img width="1401" height="675" alt="image" src="https://github.com/user-attachments/assets/ca9afd10-1667-4d2e-aded-110b8dd8cc27" />
